@@ -1,0 +1,74 @@
+{
+  "businesses": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "category": "Restaurant",
+      "location": "Bangalore",
+      "rating": 4.2
+    },
+    {
+      "id": 2,
+      "name": "Domino's Pizza",
+      "category": "Restaurant",
+      "location": "Mumbai",
+      "rating": 4.0
+    },
+    {
+      "id": 3,
+      "name": "Starbucks Coffee",
+      "category": "Cafe",
+      "location": "Delhi",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "name": "Cafe Coffee Day",
+      "category": "Cafe",
+      "location": "Bangalore",
+      "rating": 3.9
+    },
+    {
+      "id": 5,
+      "name": "Burger King",
+      "category": "Fast Food",
+      "location": "Chennai",
+      "rating": 4.1
+    },
+    {
+      "id": 6,
+      "name": "Subway Sandwiches",
+      "category": "Fast Food",
+      "location": "Pune",
+      "rating": 3.8
+    },
+    {
+      "id": 7,
+      "name": "KFC",
+      "category": "Fast Food",
+      "location": "Hyderabad",
+      "rating": 4.0
+    },
+    {
+      "id": 8,
+      "name": "Barbeque Nation",
+      "category": "Restaurant",
+      "location": "Jaipur",
+      "rating": 4.3
+    },
+    {
+      "id": 9,
+      "name": "Haldiram's",
+      "category": "Sweets & Snacks",
+      "location": "Delhi",
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "name": "Biryani House",
+      "category": "Restaurant",
+      "location": "Hyderabad",
+      "rating": 4.2
+    }
+  ]
+}
